@@ -4,7 +4,7 @@ No pip installations needed! Uses only Python's built-in libraries.
 Perfect for academic presentations.
 """
 # ============================================
-# STEP 0:installibs__python -m pip install numpy pandas matplotlib seaborn scikit-learn
+# STEP 0: installibs__python -m pip install numpy pandas matplotlib seaborn scikit-learn
 # ============================================
 import math
 import random
