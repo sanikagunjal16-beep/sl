@@ -3,15 +3,15 @@ SIMPLE NAÏVE BAYES CLASSIFICATION - IRIS DATASET DEMO
 No pip installations needed! Uses only Python's built-in libraries.
 Perfect for academic presentations.
 """
-# ============================================
-# STEP 0: installibs__python -m pip install numpy pandas matplotlib seaborn scikit-learn
-# ============================================
 import math
 import random
 import csv
 from collections import defaultdict
 import statistics
 
+# ============================================
+# STEP 0: installibs python -m pip install numpy pandas matplotlib seaborn scikit-learn
+# ============================================
 # ============================================
 # STEP 1: Create Iris Dataset (Built-in, no downloads)
 # ============================================
